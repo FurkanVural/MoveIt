@@ -1,2 +1,0 @@
-# MoveIt
-Software Management Project
